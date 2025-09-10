@@ -41,16 +41,20 @@ To run this project locally, you will need:
 
 
 Screenshots 📸
-To add screenshots, you can upload image files (e.g., .png, .jpg) to your repository and link to them here.
 
-Login Page
-![Login Page Screenshot]
+<img width="600" height="445" alt="login page" src="https://github.com/user-attachments/assets/e677fca5-683c-4a16-a777-937fbeb72289" />
 
-Main Menu
-![Main Menu Screenshot]
 
-Deposit Page
-![Deposit Page Screenshot]
+
+<img width="600" height="600" alt="Main menu" src="https://github.com/user-attachments/assets/0dba18df-a23a-40b8-b64e-e2336513ba3f" />
+
+
+
+<img width="500" height="440" alt="signup one" src="https://github.com/user-attachments/assets/c7878371-b072-48ab-8e19-9c16aef5a5b0" />
+<img width="500" height="440" alt="signup2" src="https://github.com/user-attachments/assets/10874980-98da-4f47-997d-d2f6a1c4cd6e" />
+<img width="500" height="440" alt="signup3" src="https://github.com/user-attachments/assets/b6eef8f7-d37f-4ba3-b425-f38d52838935" />
+
+
 
 Contributing 🤝
 This project is a personal portfolio piece, but feel free to fork the repository and explore the code.
