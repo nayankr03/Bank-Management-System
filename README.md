@@ -47,6 +47,3 @@ To run this project locally, ensure you have:
 <img width="500" height="440" alt="Signup Step 1" src="https://github.com/user-attachments/assets/c7878371-b072-48ab-8e19-9c16aef5a5b0" />
 <img width="500" height="440" alt="Signup Step 2" src="https://github.com/user-attachments/assets/10874980-98da-4f47-997d-d2f6a1c4cd6e" />
 <img width="500" height="440" alt="Signup Step 3" src="https://github.com/user-attachments/assets/b6eef8f7-d37f-4ba3-b425-f38d52838935" />
-
-
-Let me know if you'd like help adding a license, improving the database schema section, or writing a `CONTRIBUTING.md` file!
