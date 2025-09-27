@@ -1,7 +1,3 @@
-Here’s a polished and professional version of your GitHub README for the **Bank Management System** project:
-
----
-
 ## 💳 Bank Management System
 
 A desktop application built with **Java** and **MySQL** to simulate a basic ATM. It features a user-friendly GUI for managing customer accounts and performing essential banking operations such as mini-statements, fast cash withdrawals, and secure PIN changes.
